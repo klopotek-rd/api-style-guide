@@ -1,4 +1,4 @@
-# Adello API Style Guide
+# Klopotek API Style Guide
 
 ## Purpose
 
