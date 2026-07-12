@@ -1,4 +1,4 @@
-# Adello API Styleguide
+# Klopotek API Styleguide
 
 ## General
 * API's are binding contracts between different domains and/or teams. They represent domain boundaries.
